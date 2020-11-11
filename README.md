@@ -87,7 +87,7 @@ files with GitHub because of their size.
 
 # Change Log
 
-## 2020-10-29
+### 2020-10-29
 
 Restructuring of the repository. Re-initialized the repository. Minor typo corrections. Save estimates
 and .RData files to the directory.
