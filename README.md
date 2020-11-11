@@ -14,7 +14,7 @@ The analytical approach documented here has been recommended by the MIKE-ETIS Te
 
 This GitHub sites contains code and reports to
 estimate yearly-trends in the Proportion of Illegally Killed Elephants (PIKE) from 
-MIKE (Monitoring Illegally Killed Elephants) monitoring sites in Africa since 2003.
+MIKE (Monitoring Illegally Killed Elephants) monitoring sites in Africa and Asia since 2003.
 
 Briefly, MIKE data is collected on an annual basis in designated MIKE sites by law enforcement 
 and ranger patrols in the field and through other means. 
