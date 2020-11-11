@@ -39,7 +39,7 @@ where the subscripts <i> sy </i>  refer to site and year respectively.
 
 This GitHub site contains code and reports on using a Generalized Linear Mixed Model (GLMM)
 to analyze the MIKE data. This is an improvement over using a simple linear model on
-the raw proportions (the *LSMeans* approach)
+the raw proportions (the *LSMeans* approach). 
 
 # Structure of this repository
 You will have to insert your google key in the *register_google_key.R* file so that
