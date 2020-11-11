@@ -81,7 +81,7 @@ This will take two runs, one for the *html* file and one for the *pdf* file.
 - Put the date of creation in the front of the created html/pdf files and move to the *ReportAndEstimates* directory.
 - Put the date of creation in the front of the created *report.africa.estimates.csv* file and
 move to the *ReportAndEstimates* directory.
-- Put the date oc creation in the front of the created *.Rdata* files which saves the 
+- Put the date of creation in the front of the created *.Rdata* files which saves the 
 posterior samples from the continental or subregional fits. You likely will NOT want to manage these
 files with GitHub because of their size.
 
