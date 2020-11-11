@@ -35,7 +35,7 @@ Consequently, the observed proportion of illegally killed elephants (PIKE) as an
 poaching levels has been used in the MIKE analysis in an attempt to account for 
 differences in patrol effort between sites and over time:
 <p> <img src="images/PIKEFormula.png" width="40%" height="40%" style="display: block; margin: auto auto auto 0;" align="top"/> </p>
-where the subscripts <i> sy <\i>  refer to site and year respectively.
+where the subscripts <i> sy </i>  refer to site and year respectively.
 
 This GitHub site contains code and reports on using a Generalized Linear Mixed Model (GLMM)
 to analyze the MIKE data. This is an improvement over using a simple linear model on
