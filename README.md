@@ -91,4 +91,4 @@ files with GitHub because of their size.
 Restructuring of the repository. Re-initialized the repository. Minor typo corrections. Save estimates
 and .RData files to the directory.
 
-<img src="EUFlagwithText2.png" width="20%" height="20%" style="display: block; margin: auto auto auto 0;" align="center"/>
+<img src="images/EUFlagwithText2.png" width="20%" height="20%" style="display: block; margin: auto auto auto 0;" align="center"/>
