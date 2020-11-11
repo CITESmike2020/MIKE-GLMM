@@ -1,0 +1,875 @@
+"UNRegion","SubregionName","SubregionID","CountryName","CountryCode","MIKEsiteID","MIKEsiteName","year","TotalNumberOfCarcasses","NumberOfIllegalCarcasses"
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2014,0,0
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2013,1,0
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2010,1,0
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2018,4,0
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2011,4,1
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2006,1,0
+"Africa","Eastern Africa","FE","Rwanda","rw","AKG","Akagera",2012,3,0
+"Asia","South East Asia","SE","Myanmar","mm","ALW","Alaungdaw Kathapa",2012,1,1
+"Asia","South East Asia","SE","Myanmar","mm","ALW","Alaungdaw Kathapa",2009,1,1
+"Asia","South East Asia","SE","Myanmar","mm","ALW","Alaungdaw Kathapa",2006,2,2
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2012,8,7
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2004,7,5
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2006,12,0
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2007,1,0
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2013,4,4
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2005,3,3
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2014,1,1
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2017,3,0
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2009,14,5
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2008,1,0
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2003,19,13
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2016,1,1
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2011,5,4
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2010,5,3
+"Africa","Central Africa","FC","Cameroon","cm","BBK","Boumba-Bek",2018,1,1
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2018,10,9
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2014,3,3
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2013,14,10
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2015,3,3
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2017,10,7
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2016,6,5
+"Africa","Eastern Africa","FE","Ethiopia","et","BBL","Babille",2012,17,13
+"Asia","South East Asia","SE","Indonesia","id","BBS","Bukit Barisan Selatan",2010,1,0
+"Asia","South East Asia","SE","Indonesia","id","BBS","Bukit Barisan Selatan",2013,1,1
+"Asia","South East Asia","SE","Indonesia","id","BBS","Bukit Barisan Selatan",2011,1,0
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2015,11,11
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2014,20,20
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2003,3,3
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2012,12,12
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2010,6,6
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2017,2,2
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2011,8,7
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2004,8,8
+"Africa","Central Africa","FC","Central African Republic","cf","BGS","Bangassou",2013,2,2
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2017,31,3
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2016,33,7
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2002,19,7
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2013,91,36
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2009,26,10
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2007,14,11
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2010,29,4
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2006,17,2
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2014,52,9
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2008,13,1
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2003,10,3
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2011,51,34
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2015,41,12
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2012,43,34
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2005,20,0
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2004,14,3
+"Africa","Southern Africa","FS","Zimbabwe","zw","CHE","Chewore",2018,12,2
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2018,108,38
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2006,111,11
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2017,101,22
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2003,59,0
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2009,120,16
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2016,121,0
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2007,101,14
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2012,351,28
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2005,153,7
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2013,156,2
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2010,37,9
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2011,42,14
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2008,113,4
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2004,73,5
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2015,197,10
+"Africa","Southern Africa","FS","Botswana","bw","CHO","Chobe",2014,239,23
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2007,1,0
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2008,4,0
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2009,7,4
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2012,19,4
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2010,3,1
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2014,1,1
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2017,12,8
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2003,1,0
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2013,21,2
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2016,21,3
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2004,2,0
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2006,2,1
+"Asia","South Asia","SS","India","in","CHR","Chirang-Ripu",2011,4,1
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2007,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2013,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2006,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2016,2,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2017,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2009,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2012,1,0
+"Asia","South Asia","SS","Bangladesh","bd","CHU","Chunati",2008,1,0
+"Asia","South East Asia","SE","Viet Nam","vn","CTN","Cat Tien",2009,6,6
+"Asia","South East Asia","SE","Viet Nam","vn","CTN","Cat Tien",2010,2,0
+"Asia","South East Asia","SE","Viet Nam","vn","CTN","Cat Tien",2011,1,0
+"Asia","South Asia","SS","India","in","DEO","Deomali",2006,3,3
+"Asia","South Asia","SS","India","in","DEO","Deomali",2013,1,0
+"Asia","South Asia","SS","India","in","DEO","Deomali",2007,6,1
+"Asia","South Asia","SS","India","in","DEO","Deomali",2008,1,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2015,8,4
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2011,4,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2017,14,3
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2014,2,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2006,6,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2007,3,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2013,9,1
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2005,1,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2008,3,1
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2004,2,1
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2012,12,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2009,2,0
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2016,11,5
+"Asia","South Asia","SS","India","in","DHG","Dihing Patkai",2010,1,0
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2015,30,13
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2008,27,17
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2010,5,0
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2014,17,6
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2009,10,3
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2006,2,1
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2016,30,7
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2017,19,12
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2013,42,41
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2012,10,4
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2011,10,1
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2005,9,8
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2007,2,1
+"Africa","Central Africa","FC","Central African Republic","cf","DZA","Dzanga-Sangha",2018,13,9
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2007,20,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2003,4,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2008,15,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2009,12,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2016,10,1
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2005,8,1
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2011,13,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2013,16,5
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2004,12,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2015,15,7
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2006,17,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2014,9,3
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2010,10,0
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2012,13,1
+"Asia","South Asia","SS","India","in","EDO","Eastern Dooars",2017,3,0
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2017,2,1
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2009,7,5
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2004,7,5
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2013,10,7
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2015,5,2
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2007,2,1
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2018,5,3
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2011,12,7
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2014,3,3
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2006,5,2
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2005,1,0
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2008,2,1
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2012,30,17
+"Africa","Eastern Africa","FE","Kenya","ke","EGK","Mount Elgon",2003,7,6
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2004,4,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2007,25,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2008,14,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2018,20,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2013,5,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2003,18,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2016,20,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2017,14,1
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2012,14,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2015,13,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2014,9,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2010,11,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2005,25,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2006,15,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2011,27,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2002,24,0
+"Africa","Southern Africa","FS","Namibia","na","ETO","Etosha",2009,21,0
+"Africa","West Africa","FW","Togo","tg","FAZ","Fazao Mafakassa",2018,1,0
+"Africa","West Africa","FW","Togo","tg","FAZ","Fazao Mafakassa",2017,1,1
+"Africa","West Africa","FW","Togo","tg","FAZ","Fazao Mafakassa",2014,1,1
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2008,4,4
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2006,34,32
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2010,15,10
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2005,86,77
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2013,17,16
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2011,14,13
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2017,53,38
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2014,121,119
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2003,114,110
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2016,100,97
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2009,6,6
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2018,10,3
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2004,197,176
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2012,48,47
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2007,14,7
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","GAR","Garamba",2015,105,98
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2005,3,2
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2010,1,1
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2017,2,2
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2016,3,3
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2006,2,0
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2007,2,1
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2009,1,0
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2012,1,0
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2011,1,1
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2015,1,1
+"Asia","South East Asia","SE","Malaysia","my","GMS","Gua Musang",2013,2,2
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2016,40,40
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2002,3,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2009,4,1
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2014,22,18
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2015,134,130
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2008,2,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2017,11,8
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2010,27,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2013,3,2
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2004,1,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2018,4,4
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2006,3,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2005,2,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2012,5,5
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2003,1,0
+"Africa","West Africa","FW","Mali","ml","GOU","Gourma",2007,2,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2006,6,3
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2007,11,1
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2016,2,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2010,5,5
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2015,2,2
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2003,6,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2008,9,2
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2009,4,3
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2017,2,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2013,3,1
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2005,2,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2011,9,1
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2012,3,1
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2014,6,0
+"Asia","South Asia","SS","India","in","GRO","Garo Hills",2004,10,1
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2002,3,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2009,6,1
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2017,3,1
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2013,2,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2012,5,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2018,7,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2008,5,2
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2003,3,1
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2010,2,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2006,7,1
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2007,4,2
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2014,1,0
+"Africa","Eastern Africa","FE","Eritrea","er","GSH","Gash-Setit",2004,1,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2007,1,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2009,1,1
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2004,5,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2013,1,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2010,1,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2008,1,1
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2003,6,0
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2002,2,1
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2016,1,1
+"Africa","West Africa","FW","Ghana","gh","KAK","Kakum",2017,1,1
+"Africa","Southern Africa","FS","Zambia","zm","KFE","Kafue",2018,9,7
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2010,1,1
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2016,6,6
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2009,1,1
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2006,1,1
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2012,1,1
+"Asia","South East Asia","SE","Malaysia","my","KLU","Kluang",2017,1,1
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2004,18,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2010,14,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2018,194,71
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2006,51,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2016,165,46
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2008,18,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2003,2,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2002,1,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2012,5,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2009,35,1
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2007,34,1
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2005,35,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2013,17,0
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2014,35,6
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2011,20,1
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2015,74,30
+"Africa","Southern Africa","FS","South Africa","za","KRU","Kruger",2017,170,67
+"Africa","Southern Africa","FS","Malawi","mw","KSG","Kasungu",2013,2,1
+"Africa","Southern Africa","FS","Malawi","mw","KSG","Kasungu",2014,2,2
+"Africa","Southern Africa","FS","Malawi","mw","KSG","Kasungu",2015,1,1
+"Africa","Southern Africa","FS","Malawi","mw","KSG","Kasungu",2018,3,3
+"Africa","Southern Africa","FS","Malawi","mw","KSG","Kasungu",2016,1,1
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2018,7,7
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2016,3,3
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2014,0,0
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2013,1,0
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2012,2,1
+"Africa","Eastern Africa","FE","Ethiopia","et","KSH","Kafta-Sheraro",2015,1,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2010,13,12
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2013,18,12
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2016,16,15
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2015,27,25
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2003,12,9
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2011,29,25
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2004,20,15
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2008,9,9
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2009,5,4
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2012,29,25
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2006,2,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2007,2,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2017,9,6
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2018,1,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2014,14,11
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","KTV","Katavi Rukwa",2005,6,3
+"Asia","South East Asia","SE","Thailand","th","KUI","Kui Buri",2015,1,0
+"Asia","South East Asia","SE","Thailand","th","KUI","Kui Buri",2012,1,0
+"Asia","South East Asia","SE","Thailand","th","KUI","Kui Buri",2011,3,0
+"Asia","South East Asia","SE","Thailand","th","KUI","Kui Buri",2010,1,1
+"Asia","South East Asia","SE","Thailand","th","KUI","Kui Buri",2014,2,2
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2011,8,2
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2016,10,3
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2018,27,3
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2012,14,4
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2014,15,1
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2013,22,2
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2004,4,1
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2015,13,5
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2003,7,4
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2009,3,2
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2008,1,0
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2010,4,0
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2017,20,4
+"Africa","Central Africa","FC","Gabon","ga","LOP","LopÃ©",2006,1,0
+"Africa","Southern Africa","FS","Mozambique","mz","LPP","Limpopo",2017,5,4
+"Africa","Southern Africa","FS","Mozambique","mz","LPP","Limpopo",2018,10,10
+"Africa","Southern Africa","FS","Mozambique","mz","LPP","Limpopo",2016,10,9
+"Africa","Southern Africa","FS","Zambia","zm","LZN","Lower Zambezi",2018,29,19
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2010,12,7
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2017,1,1
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2015,13,12
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2011,18,15
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2004,2,2
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2014,14,14
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2013,31,30
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2016,8,8
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2018,8,4
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2012,27,22
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2003,3,1
+"Africa","Southern Africa","FS","Mozambique","mz","MAG","Magoe",2002,1,0
+"Africa","Southern Africa","FS","Zimbabwe","zw","MAN","Mana Pools and Sapi",2016,23,22
+"Africa","Southern Africa","FS","Zimbabwe","zw","MAN","Mana Pools and Sapi",2018,11,1
+"Africa","Southern Africa","FS","Zimbabwe","zw","MAN","Mana Pools and Sapi",2017,9,4
+"Africa","Southern Africa","FS","Zimbabwe","zw","MAN","Mana Pools and Sapi",2015,12,9
+"Africa","West Africa","FW","Cote d'Ivoire","ci","MAR","MarahouÃ©",2013,1,1
+"Africa","West Africa","FW","Cote d'Ivoire","ci","MAR","MarahouÃ©",2008,1,1
+"Africa","West Africa","FW","Cote d'Ivoire","ci","MAR","MarahouÃ©",2007,8,8
+"Africa","West Africa","FW","Cote d'Ivoire","ci","MAR","MarahouÃ©",2009,2,2
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2012,10,5
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2010,20,9
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2017,13,1
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2011,12,5
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2005,17,2
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2007,13,1
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2004,12,0
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2013,13,1
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2008,7,1
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2009,5,1
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2015,14,0
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2006,17,3
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2016,17,0
+"Asia","South Asia","SS","India","in","MBJ","Mayurbhanj",2014,13,1
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2015,3,2
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2013,10,8
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2004,2,1
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2006,2,2
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2012,19,17
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2003,10,10
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2014,9,4
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2009,5,2
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2011,26,24
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2008,2,1
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2018,15,11
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2010,7,2
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2017,16,7
+"Africa","Eastern Africa","FE","Uganda","ug","MCH","Murchison Falls",2007,2,1
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2012,27,24
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2016,51,47
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2013,27,20
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2005,6,3
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2004,13,12
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2003,11,8
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2017,18,18
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2011,31,27
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2014,19,19
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2009,4,3
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2018,16,16
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2015,22,19
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2010,18,17
+"Africa","Central Africa","FC","Gabon","ga","MKB","MinkÃ©bÃ©",2008,4,4
+"Asia","South East Asia","SE","Cambodia","kh","MKR","Mondulkiri",2013,3,3
+"Asia","South East Asia","SE","Cambodia","kh","MKR","Mondulkiri",2010,3,2
+"Asia","South East Asia","SE","Cambodia","kh","MKR","Mondulkiri",2006,1,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2013,3,3
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2011,2,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2016,1,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2012,4,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2015,2,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2017,1,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","MKZ","Mkomazi",2018,4,0
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2008,2,2
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2018,5,5
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2002,1,0
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2003,2,1
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2010,1,1
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2017,3,3
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2013,1,1
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2004,8,2
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2005,3,3
+"Africa","West Africa","FW","Ghana","gh","MOL","Mole",2007,5,4
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2017,20,7
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2009,40,19
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2018,17,8
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2010,40,28
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2008,13,5
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2007,11,3
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2016,4,3
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2011,81,63
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2015,14,2
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2013,55,33
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2006,14,7
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2012,129,71
+"Africa","Eastern Africa","FE","Kenya","ke","MRU","Meru",2014,28,11
+"Asia","South Asia","SS","India","in","MYS","Mysore",2010,124,7
+"Asia","South Asia","SS","India","in","MYS","Mysore",2014,123,18
+"Asia","South Asia","SS","India","in","MYS","Mysore",2008,135,12
+"Asia","South Asia","SS","India","in","MYS","Mysore",2013,155,6
+"Asia","South Asia","SS","India","in","MYS","Mysore",2006,57,24
+"Asia","South Asia","SS","India","in","MYS","Mysore",2011,122,0
+"Asia","South Asia","SS","India","in","MYS","Mysore",2016,74,9
+"Asia","South Asia","SS","India","in","MYS","Mysore",2005,30,4
+"Asia","South Asia","SS","India","in","MYS","Mysore",2012,202,20
+"Asia","South Asia","SS","India","in","MYS","Mysore",2009,140,7
+"Asia","South Asia","SS","India","in","MYS","Mysore",2007,150,33
+"Asia","South Asia","SS","India","in","MYS","Mysore",2015,84,16
+"Asia","South Asia","SS","India","in","MYS","Mysore",2017,136,12
+"Asia","South East Asia","SE","Lao People's Democratic Republic","la","NAK","Nakai Nam Theun",2003,1,1
+"Asia","South East Asia","SE","Lao People's Democratic Republic","la","NAK","Nakai Nam Theun",2011,1,1
+"Asia","South East Asia","SE","Lao People's Democratic Republic","la","NAK","Nakai Nam Theun",2007,1,0
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2012,7,5
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2015,14,9
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2010,1,1
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2014,3,2
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2005,3,0
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2004,2,0
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2013,3,2
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2009,1,1
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2006,1,0
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2018,3,3
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2011,6,4
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2008,4,4
+"Africa","West Africa","FW","Burkina Faso","bf","NAZ","Nazinga",2002,1,0
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2011,10,4
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2008,4,1
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2006,5,0
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2010,6,2
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2003,8,5
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2013,10,0
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2016,19,17
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2009,5,2
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2018,59,56
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2005,4,3
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2007,1,0
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2017,71,54
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2004,14,4
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2012,2,2
+"Africa","Central Africa","FC","Congo","cg","NDK","Nouabale-Ndoki",2014,15,12
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2011,85,76
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2017,132,124
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2015,66,63
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2016,99,92
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2008,16,14
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2014,137,131
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2018,23,17
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2012,117,114
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2013,73,67
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2004,14,0
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2006,3,1
+"Africa","Southern Africa","FS","Mozambique","mz","NIA","Niassa",2010,77,65
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2012,61,2
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2011,48,1
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2014,90,7
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2008,62,2
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2010,53,2
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2013,91,6
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2007,51,0
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2006,36,2
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2015,60,6
+"Asia","South Asia","SS","India","in","NIL","Nilgiri",2009,67,3
+"Africa","West Africa","FW","Senegal","sn","NKK","Niokolo-Koba",2003,1,0
+"Africa","Southern Africa","FS","Zambia","zm","NLW","North Luangwa",2018,27,7
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2007,10,5
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2012,52,14
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2013,36,8
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2017,14,3
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2018,10,0
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2014,27,10
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2016,15,4
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2010,19,19
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2002,3,2
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2006,3,2
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2009,52,45
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2015,31,11
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2004,11,9
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2003,7,2
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2008,20,18
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2011,16,13
+"Africa","Southern Africa","FS","Zimbabwe","zw","NYA","Nyami Nyami",2005,6,5
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2003,38,2
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2006,1,0
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2015,10,10
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2018,22,15
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2007,36,35
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2013,1,1
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2016,30,22
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2009,3,3
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2012,12,12
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2008,17,9
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2017,32,24
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2014,7,7
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2011,123,118
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2005,73,0
+"Africa","Central Africa","FC","Congo","cg","ODZ","Odzala-Kokoua",2004,36,19
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2005,22,21
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2010,15,13
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2018,1,1
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2006,5,5
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2007,11,11
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2013,7,7
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2011,37,37
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2004,10,9
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2015,2,2
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2008,3,2
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2012,37,37
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2003,20,20
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2017,2,2
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2009,18,18
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2014,7,7
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","OKP","Okapi",2016,8,8
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2011,13,9
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2004,3,1
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2002,1,0
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2013,5,4
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2008,1,0
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2010,6,0
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2012,20,16
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2016,17,13
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2014,29,26
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2017,12,5
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2009,8,7
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2018,40,10
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2003,2,1
+"Africa","West Africa","FW","Benin","bj","PDJ","Pendjari",2015,20,16
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2017,11,10
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2003,1,1
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2018,13,8
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2011,20,16
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2009,8,3
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2010,11,4
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2008,9,4
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2002,3,0
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2007,4,4
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2013,37,10
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2014,22,11
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2004,8,3
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2006,11,2
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2016,10,5
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2012,21,12
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2005,1,0
+"Africa","Eastern Africa","FE","Uganda","ug","QEZ","Queen Elizabeth",2015,21,12
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2016,27,10
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2011,34,32
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2012,110,73
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2018,45,24
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2017,28,6
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2005,15,10
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2003,10,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2014,50,29
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2015,47,35
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2009,3,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2007,2,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2013,57,48
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2004,6,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2006,9,8
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2008,3,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","RHR","Ruaha Rungwa",2010,28,16
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2010,29,28
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2003,2,0
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2012,4,4
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2016,18,18
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2015,11,11
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2009,15,14
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2013,4,4
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2005,4,1
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2017,12,9
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2014,14,14
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2011,9,9
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","SAL","Salonga",2004,56,36
+"Africa","West Africa","FW","Liberia","lr","SAP","Sapo",2008,1,1
+"Africa","West Africa","FW","Liberia","lr","SAP","Sapo",2007,1,1
+"Africa","West Africa","FW","Liberia","lr","SAP","Sapo",2009,3,3
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2013,156,99
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2010,164,77
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2006,96,13
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2005,160,27
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2002,159,60
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2007,97,23
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2017,269,87
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2011,264,161
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2003,195,36
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2012,310,225
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2016,145,58
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2014,95,37
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2008,278,141
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2018,169,60
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2004,128,40
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2015,151,54
+"Africa","Eastern Africa","FE","Kenya","ke","SBR","Samburu Laikipia",2009,326,85
+"Asia","South Asia","SS","Bhutan","bt","SCH","Samtse",2011,2,0
+"Asia","South Asia","SS","Bhutan","bt","SCH","Samtse",2009,1,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2015,68,51
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2008,90,53
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2011,224,143
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2016,30,12
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2013,118,87
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2004,11,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2012,156,80
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2003,9,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2014,42,34
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2010,195,108
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2017,23,6
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2009,100,48
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2007,103,43
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","SEL","Selous Mikumi",2018,19,3
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2012,14,14
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2008,8,8
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2015,9,9
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2010,2,2
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2011,6,6
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2003,10,1
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2009,4,4
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2013,1,1
+"Africa","Central Africa","FC","Central African Republic","cf","SGB","Sangba",2004,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2008,3,1
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2003,2,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2005,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2013,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2017,1,1
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2016,5,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2009,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2002,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2015,1,1
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2014,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2006,1,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2004,2,0
+"Asia","South East Asia","SE","Thailand","th","SKP","Salakphra",2010,1,0
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2006,35,27
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2007,11,0
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2008,8,7
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2003,8,5
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2012,34,14
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2014,77,41
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2011,22,14
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2016,85,50
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2010,49,26
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2013,21,15
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2004,23,15
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2017,126,84
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2005,4,1
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2015,83,46
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2002,4,1
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2009,14,6
+"Africa","Southern Africa","FS","Zambia","zm","SLW","South Luangwa",2018,116,71
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2016,17,3
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2014,18,3
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2010,10,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2007,14,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2012,3,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2006,7,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2017,32,3
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2013,27,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2008,26,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2011,9,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2005,2,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2009,21,0
+"Asia","South Asia","SS","India","in","SVK","Shivalik",2015,15,4
+"Africa","West Africa","FW","Cote d'Ivoire","ci","TAI","Tai",2014,1,0
+"Africa","West Africa","FW","Cote d'Ivoire","ci","TAI","Tai",2016,5,0
+"Africa","West Africa","FW","Cote d'Ivoire","ci","TAI","Tai",2015,1,0
+"Africa","West Africa","FW","Cote d'Ivoire","ci","TAI","Tai",2004,2,2
+"Africa","West Africa","FW","Cote d'Ivoire","ci","TAI","Tai",2013,6,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2007,5,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2015,9,7
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2009,2,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2014,10,8
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2003,7,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2006,4,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2008,5,2
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2016,10,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2004,11,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2017,4,0
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2010,42,21
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2012,20,14
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2013,6,6
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2018,4,1
+"Africa","Eastern Africa","FE","United Republic of Tanzania","tz","TGR","Tarangire-Manyara",2011,5,1
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2006,88,15
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2010,81,55
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2015,127,42
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2013,291,133
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2007,56,11
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2005,60,17
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2012,238,136
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2018,139,22
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2003,82,18
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2016,170,37
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2004,65,19
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2011,107,65
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2017,351,39
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2009,329,52
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2014,172,85
+"Africa","Eastern Africa","FE","Kenya","ke","TSV","Tsavo",2008,79,26
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2015,24,17
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2010,25,25
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2013,8,8
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2008,63,63
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2012,2,2
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2018,12,12
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2009,20,16
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2011,16,16
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2017,7,6
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2005,9,4
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2006,3,1
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2014,5,5
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2007,15,0
+"Africa","Central Africa","FC","Democratic Republic of the Congo","cd","VIR","Virunga",2016,7,3
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2010,1,1
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2009,2,1
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2013,2,1
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2003,9,0
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2004,2,1
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2008,2,1
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2012,3,2
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2006,1,0
+"Asia","South East Asia","SE","Indonesia","id","WAY","Way Kambas",2011,4,3
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2007,1,0
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2003,3,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2010,1,0
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2009,1,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2004,2,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2012,5,0
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2005,2,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2008,2,0
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2011,1,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2014,2,1
+"Africa","Central Africa","FC","Cameroon","cm","WAZ","Waza",2006,3,1
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2004,1,0
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2003,1,0
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2012,13,13
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2014,13,13
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2016,7,7
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2008,6,6
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2013,1,1
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2011,4,4
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2017,2,2
+"Africa","West Africa","FW","Burkina Faso","bf","WBF","W du Burkina",2009,9,8
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2018,3,2
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2012,3,3
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2013,6,6
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2016,6,6
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2014,11,11
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2004,3,0
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2002,1,0
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2009,1,0
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2003,1,0
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2017,4,3
+"Africa","West Africa","FW","Benin","bj","WBJ","W du BÃ©nin",2015,10,10
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2013,6,3
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2004,2,2
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2009,3,1
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2002,1,1
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2012,4,4
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2017,4,4
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2010,3,1
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2014,2,0
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2011,6,5
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2003,4,1
+"Africa","West Africa","FW","Niger","ne","WNE","W du Niger",2015,6,4
+"Asia","South Asia","SS","Sri Lanka","lk","WPT","Wilpattu",2016,17,5
+"Asia","South Asia","SS","Sri Lanka","lk","WPT","Wilpattu",2017,11,6
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2007,16,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2004,2,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2014,22,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2013,15,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2017,38,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2009,10,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2008,5,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2012,20,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2011,9,0
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2010,8,1
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2016,25,6
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2005,8,1
+"Asia","South Asia","SS","India","in","WYD","Wayanad",2015,15,1
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2011,8,1
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2007,1,1
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2008,13,10
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2004,5,2
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2002,3,3
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2010,3,2
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2006,2,1
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2003,3,3
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2005,5,4
+"Asia","South East Asia","SE","China","cn","XBN","Xishuangbanna",2009,5,2
+"Asia","South Asia","SS","Sri Lanka","lk","YAL","Yala",2016,5,0
+"Asia","South Asia","SS","Sri Lanka","lk","YAL","Yala",2017,5,2
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2013,10,6
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2010,6,4
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2015,2,0
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2004,5,3
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2011,4,4
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2014,2,1
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2002,6,0
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2018,1,0
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2005,2,0
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2003,4,1
+"Africa","West Africa","FW","Nigeria","ng","YKR","Yankari",2012,11,11
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2004,35,30
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2010,39,36
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2005,11,3
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2007,160,155
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2011,7,5
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2013,1,0
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2008,86,81
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2009,20,12
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2003,34,22
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2015,4,3
+"Africa","Central Africa","FC","Chad","td","ZAK","Zakouma",2006,60,40
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2018,56,10
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2012,10,6
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2007,5,0
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2003,8,2
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2010,6,2
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2017,53,15
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2015,87,31
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2013,68,30
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2014,76,27
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2011,29,17
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2006,5,2
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2004,6,0
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2009,7,0
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2016,97,32
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2005,4,1
+"Africa","Southern Africa","FS","Namibia","na","ZBZ","Zambezi",2002,1,0
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2016,4,4
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2015,1,1
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2003,1,1
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2014,2,2
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2017,3,3
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2007,1,1
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2008,4,4
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2012,2,0
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2004,2,2
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2013,5,4
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2018,1,0
+"Africa","West Africa","FW","Guinea","gn","ZIA","Ziama",2009,11,11
