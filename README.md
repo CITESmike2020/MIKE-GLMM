@@ -89,7 +89,7 @@ files with GitHub because of their size.
 
 ### 2020-10-11
 
-*Readme.md* file updated to include additional introductory text and images.
+*README.md* file updated to include additional introductory text and images.
 
 ### 2020-10-09
 
