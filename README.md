@@ -1,3 +1,5 @@
+<p> <img src="UNCiteslogo.png" width="10%" height="100%" style="display: block; margin: auto auto auto 0;" align="top"/> <img src="MIKELogo.png" width="25%" height="100%" style="display: block; margin: auto auto auto 0;" align="botom"/>   </p>
+
 # MIKE-GLMM
 PIKE TREND ANALYSIS USING A BAYESIAN GENERALISED LINEAR MIXED MODEL (GLMM) APPROACH IN R
 CITES MIKE Programme
@@ -82,10 +84,11 @@ move to the *ReportAndEstimates* directory.
 posterior samples from the continental or subregional fits. You likely will NOT want to manage these
 files with GitHub because of their size.
 
-
 # Change Log
 
 ## 2020-10-29
 
 Restructuring of the repository. Re-initialized the repository. Minor typo corrections. Save estimates
 and .RData files to the directory.
+
+<img src="EUFlagwithText2.png" width="20%" height="20%" style="display: block; margin: auto auto auto 0;" align="center"/>
