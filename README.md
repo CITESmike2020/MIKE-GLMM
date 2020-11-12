@@ -87,7 +87,7 @@ files with GitHub because of their size.
 
 # Change Log
 
-### 2020-10-11
+### 2020-11-11
 
 *README.md* file updated to include additional introductory text and images.
 
