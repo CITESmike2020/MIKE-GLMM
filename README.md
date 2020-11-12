@@ -87,11 +87,11 @@ files with GitHub because of their size.
 
 # Change Log
 
-### 2020-11-11
+#### 2020-11-11
 
 *README.md* file updated to include additional introductory text and images.
 
-### 2020-10-29
+#### 2020-10-29
 
 Restructuring of the repository. Re-initialized the repository. Minor typo corrections. Save estimates
 and .RData files to the directory.
