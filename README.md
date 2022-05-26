@@ -87,6 +87,9 @@ files with GitHub because of their size.
 
 # Change Log
 
+#### *2022-05-26*
+Added the hyperlink to the MIKE report. 
+
 #### *2020-11-11*
 
 *README.md* file updated to include additional introductory text and images.
