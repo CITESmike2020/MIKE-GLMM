@@ -10,6 +10,8 @@ The MIKE Programme is a site-based system designed to monitor trends in the ille
 
 The analytical approach documented here has been recommended by the MIKE-ETIS Technical Advisory Group (TAG) after the review of the MIKE analytical methodology initiated by the CITES Secretariat in collaboration with the MIKE-ETIS TAG.  Various methodologies / models were considered and the use of a Bayesian generalised linear mixed model (GLMM) approach, with model results unweighted by local elephant population estimates were recommended by the TAG to replace the previous modelling approach [estimated marginal means (LSmeans)] that had been used in previous reports considered by the meetings of the Conference of Parties to CITES and CITES Standing Committee. The Bayesian GLMM approach was used to report PIKE trends in the MIKE report: PIKE trend analysis – Methodology and Results, released by the CITES Secretariat in November 2020. <a href="https://cites.org/sites/default/files/MIKE/E_CITES_Secretariat_MIKE_report_Final_CITESwebsite_Nov2020.pdf">Click here to see the report.</a> 
 
+This GitHub repository contains the code used to generate MIKE report.
+
 # MIKE - GLMM Model for PIKE
 
 This GitHub sites contains code and reports to
